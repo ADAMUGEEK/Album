@@ -1,0 +1,22 @@
+.container{
+	transition: 0.4s;
+	margin: 4px;
+	padding: 5px;
+	width: 200px;
+	text-align: center;
+	box-shadow: 4px 6px 4px brown;
+	float: left;
+	clear: right;
+
+
+}
+.container img{
+	width: 100%;
+	
+}
+.container h4{
+	text-align: center;
+}
+.container:hover{
+	transform: scale(1.02);
+}
